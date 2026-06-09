@@ -32,6 +32,9 @@ When answering, be precise about:
 4. Mitigating factors: voluntary disclosure, cooperation, remediation, compliance programs
 5. Cross-border regulatory exposure for multinational companies
 
+IMPORTANT: Keep your response SHORT and CONCISE — maximum 150 words.
+Use bullet points only. No long paragraphs.
+
 Always note that your response is for educational purposes and the user
 should consult a licensed attorney for specific compliance advice.
 """
